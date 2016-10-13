@@ -5,7 +5,7 @@
 >
 > Facebook:
 >
-  `<button onclick="shareSocial('facebook', 'http://example.com', 'This is a facebook share example!')">Facebook<button>`
+  `<button onclick="shareSocial('facebook', 'http://example.com')">Facebook<button>`
 >
 > Twitter:
 >
@@ -13,4 +13,4 @@
 >
 > Google+:
 >
-`<button onclick="shareSocial('google+', 'http://example.com', 'This is a g+ share example!')">G+<button>`
+`<button onclick="shareSocial('g+', 'http://example.com')">G+<button>`
