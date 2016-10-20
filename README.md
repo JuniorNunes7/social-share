@@ -1,5 +1,6 @@
 # social-share-js
 
+Tool for share links in social networks easily.
 
 > Use Example:
 >
