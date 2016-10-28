@@ -1,6 +1,6 @@
 # social-share-js
 
-Use this tool for facilitate the sharing links in social networks.
+Use this tool for facilitate the sharing links in social networks. 
 
 > Use Example:
 >
